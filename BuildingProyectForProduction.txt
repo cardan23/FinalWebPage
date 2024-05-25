@@ -1,0 +1,12 @@
+Building the HTML web project for prod environment
+
+init node on project folder
+	npm init -y
+
+Install parcel package
+	npm i parcel
+
+Build the web project with parcel
+	parcel build ./index.html
+
+Done -- Parcel has built the project!!
