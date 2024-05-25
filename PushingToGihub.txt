@@ -1,0 +1,14 @@
+Pusing source code to Github Platform
+
+
+1. Go to github
+2. Create an account
+3. SignIn to that account
+4. Create (add name, description, etc) a github project
+5. Execute commands provided by github to psuh our web project
+
+    1. git remote add origin <urlProject>
+    2. git branch -M main
+    3. git push -u origin main
+
+6. Done we have pushed our source code on github repository.
