@@ -1,0 +1,12 @@
+Deploying project with Netlify
+
+    1. Go to Netfly.com
+    2. Create a new account and signIn.
+    3. Go to "Sites".
+    4. Click on "Import from git".
+    5. Choose "github" option.
+    6. Authorize permissions for accessing Netfly to github repository.
+    7. Choose the project and click on that.
+    8. Add information required by Netfly like: site name, branch to deploy (in this case main) and base directory.
+    9. Click on "Deploy site".
+    10. Done!! you have deployed your web page to a Prod environment.
